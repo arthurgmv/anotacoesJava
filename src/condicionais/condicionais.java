@@ -1,3 +1,5 @@
+package condicionais;
+
 public class condicionais {
     public static void main(String[] args) {
         //Declarando e inicializando a variável
