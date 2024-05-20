@@ -2,9 +2,7 @@
 frutas do usuário e no final imprima essas frutas em ordem contrária.
 O programa deve solicitar ao usuáiro quantas frutas ele quer informar
 */
-
 import java.util.Scanner;
-
 
 public class funcoes {
    static String frutas[];
