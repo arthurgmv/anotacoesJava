@@ -8,7 +8,7 @@
 
 package heranca;
 
-public class PessoasEscola {
+public abstract class PessoasEscola {
     private String nome;
     private int ano_nascimento;
 
