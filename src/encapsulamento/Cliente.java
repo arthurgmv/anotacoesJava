@@ -1,7 +1,7 @@
 package encapsulamento;
 
 public class Cliente {
-    String nome;
+    public String nome;
     String endereco;
 
     public Cliente(String nome, String endereco){
